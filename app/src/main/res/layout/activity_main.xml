@@ -41,7 +41,7 @@
         android:text="TextView"
         tools:layout_editor_absoluteX="132dp"
         tools:layout_editor_absoluteY="386dp"
-        tools:text="forgot your password ?" />
+        tools:text="Forgot your password ?" />
 
     <Button
         android:id="@+id/button"
